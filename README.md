@@ -1,4 +1,4 @@
 # Alien-School
 this is my  first repo.
 <br>
-Auther - sandeep karwasra
+Auther - sandeep karwasra(alien company)
